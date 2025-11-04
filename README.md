@@ -1,10 +1,8 @@
-# kt-interface-bb
-=======================================
 KT's UI Pack - WoW Ascension 3.3.5
 =======================================
 
 1️⃣ Copiez le dossier Interface et WTF dans votre dossier WoW :
-   Exemple : C:\Jeux\World of Warcraft 3.3.5a\
+   Exemple : C:\Program Files\Ascension Launcher\resources\client
 
 2️⃣ Si vous avez déjà des fichiers WTF ou Interface :
    → Faites une sauvegarde avant !
@@ -15,4 +13,3 @@ KT's UI Pack - WoW Ascension 3.3.5
    - WeakAuras : /wa → Import → (copiez depuis le fichier All_Weakauras.txt)
 
 4️⃣ Redémarrez WoW si les addons ne se chargent pas.
-
