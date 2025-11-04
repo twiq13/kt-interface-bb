@@ -1,5 +1,18 @@
 # kt-interface-bb
-KT's Addons &amp; interface profiles in Bronzebeard WoW
+=======================================
+KT's UI Pack - WoW Ascension 3.3.5
+=======================================
 
-For install select last release and export all in your wow ascension directory: 
-C:\Program Files\Ascension Launcher\resources\client
+1️⃣ Copiez le dossier Interface et WTF dans votre dossier WoW :
+   Exemple : C:\Jeux\World of Warcraft 3.3.5a\
+
+2️⃣ Si vous avez déjà des fichiers WTF ou Interface :
+   → Faites une sauvegarde avant !
+
+3️⃣ Lancez le jeu, connectez-vous, et sélectionnez le profil :
+   - ElvUI : /elvui → Profiles → MyUI
+   - Details : /details → Profiles → MyUI
+   - WeakAuras : /wa → Import → (copiez depuis le fichier All_Weakauras.txt)
+
+4️⃣ Redémarrez WoW si les addons ne se chargent pas.
+
